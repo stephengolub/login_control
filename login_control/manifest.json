@@ -4,7 +4,9 @@
     "documentation": "https://github.com/matejdro/login_control",
     "requirements": [],
     "dependencies": [],
+    "version": "0.1",
     "codeowners": [
-        "@matejdro"
+        "@matejdro",
+        "@stephengolub"
     ]
 }
